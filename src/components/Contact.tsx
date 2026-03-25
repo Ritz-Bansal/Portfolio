@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import React from 'react';
 import '../assets/styles/Contact.scss';
 import Box from '@mui/material/Box';
 import Button from '@mui/material/Button';
